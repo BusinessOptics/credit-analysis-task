@@ -16,7 +16,7 @@ If you do not already have Anaconda download and install it (https://www.continu
 
 **2. Load the data and explore relationships**
 
-Load the supplied comma-separated data file (data_science_task.csv) using pandas read_csv function - https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
+Load the supplied comma-separated data file (https://github.com/BusinessOptics/credit-analysis-task/blob/master/data_science_task.csv) using pandas read_csv function - https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
 
 The imported dataframe should look something like this:
 
